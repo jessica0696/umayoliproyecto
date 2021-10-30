@@ -24,9 +24,9 @@ include("conexion.php");
                             <table class="table" >
                                 <thead class="thead-dark" >
                                     <tr>
-                                        <th>Codigo</th>
-                                        <th>Nombre</th>
-                                        <th>Apellido</th>
+                                        <th scope="col">Codigo</th>
+                                        <th scope="col">Nombre</th>
+                                        <th scope="col">Apellido</th>
                                         <th></th>
                                         <th></th>
                                     </tr>
