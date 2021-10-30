@@ -1,11 +1,8 @@
 {
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/jessica0696/datosenlanube1"
+            "type": "composer",
+            "url": "https://github.com/jessica0696/datosenlanube1/"
         }
-    ],
-    "require": {
-        "monolog/monolog": "dev-bugfix"
-    }
+    ]
 }
