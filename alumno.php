@@ -33,7 +33,7 @@ include("conexion.php");
            
         <h1>Usuarios: </h1>
                         <div class="col-md-8">
-                            <table class="table" id="datos">
+                            <table class="table" id="datos" style="background-color:#fffff;">
                                 <thead style >
                                     <tr>
                                         <th>Numero de usuario</th>
