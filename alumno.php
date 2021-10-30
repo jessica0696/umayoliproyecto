@@ -22,7 +22,7 @@ include("conexion.php");
         <h1>Usuarios: </h1>
                         <div class="col-md-8">
                             <table class="table" >
-                                <thead class="table-success table-striped" >
+                                <thead class="thead-dark" >
                                     <tr>
                                         <th>Codigo</th>
                                         <th>Nombre</th>
