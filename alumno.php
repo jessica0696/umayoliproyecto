@@ -37,7 +37,7 @@ include("conexion.php");
                                             while($row=mysqli_fetch_array($query)){
                                         ?>
                                             <tr>
-                                                <th><?php  echo $row['cod_estudiante']?></th>
+                                                <th scope="row"><?php  echo $row['cod_estudiante']?></th>
                                                 <th><?php  echo $row['nombres']?></th>
                                                 <th><?php  echo $row['apellidos']?></th>
                                                 <th><a href="actualizar.php?id=<?php echo $row['cod_estudiante'] ?>" class="btn btn-info">Editar</a></th>
