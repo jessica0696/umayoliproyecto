@@ -2,7 +2,7 @@
 include("conexion.php");
     $con=conectar();
 
-    $sql="SELECT *  FROM "ihfuw8gt8ymcenf5";
+    $sql="SELECT *  FROM ihfuw8gt8ymcenf5";
     $query=mysqli_query($con,$sql);
 
     $row=mysqli_fetch_array($query);
