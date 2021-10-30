@@ -22,7 +22,7 @@ include("conexion.php");
   width: 100%;
 }
 
-#datos td, #datos th {
+#datos tr, #datos th {
   border: 1px solid #ddd;
   padding: 8px;
 
@@ -33,7 +33,7 @@ include("conexion.php");
            
         <h1>Usuarios: </h1>
                         <div class="col-md-8">
-                            <table class="table" id="datos" style="background-color:#fffff;">
+                            <table class="table" id="datos" >
                                 <thead style >
                                     <tr>
                                         <th>Numero de usuario</th>
