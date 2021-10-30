@@ -1,10 +1,10 @@
 <?php
 function conectar(){
-    $host="localhost";
-    $user="root";
-    $pass="";
+    $host="ckshdphy86qnz0bj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+    $user="nxigc6de0c0eeqdh";
+    $pass="	lm3rubq7gzasfqk3";
 
-    $bd="jvh-tutoriales";
+    $bd="ihfuw8gt8ymcenf5";
 
     $con=mysqli_connect($host,$user,$pass);
 
