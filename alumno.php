@@ -21,7 +21,7 @@ include("conexion.php");
             <div class="container mt-5">
                     <div class="row">
 
-                        <div class="col-md-3">
+                        <div>
                             <h1>Ingrese datos</h1>
                                 <form action="insertar.php" method="POST">
 
