@@ -16,13 +16,13 @@ include("conexion.php");
         <link href="css/style.css" rel="stylesheet">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
         <style>
-#customers {
+#datos {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-#customers td, #customers th {
+#datos td, #datos th {
   border: 1px solid #ddd;
   padding: 8px;
 }
@@ -34,7 +34,7 @@ include("conexion.php");
            
         <h1>Usuarios: </h1>
                         <div class="col-md-8">
-                            <table class="table" id="customers">
+                            <table class="table" id="datos">
                                 <thead style >
                                     <tr>
                                         <th>Codigo</th>
