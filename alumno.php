@@ -19,7 +19,7 @@ include("conexion.php");
     </head>
     <body>
            
-
+        <h1>Usuarios: </h1>
                         <div class="col-md-8">
                             <table class="table" >
                                 <thead class="table-success table-striped" >
