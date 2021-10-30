@@ -18,20 +18,7 @@ include("conexion.php");
 
     </head>
     <body>
-            <div class="container mt-5">
-                    <div class="row">
-
-                        <div>
-                            <h1>Ingrese datos</h1>
-                                <form action="insertar.php" method="POST">
-
-                                    <input type="text" class="form-control mb-3" name="cod_estudiante" placeholder="cod estudiante">
-                                    <input type="text" class="form-control mb-3" name="nombres" placeholder="Nombre">
-                                    <input type="text" class="form-control mb-3" name="apellidos" placeholder="Apellido">
-
-                                    <input type="submit" class="btn btn-primary">
-                                </form>
-                        </div>
+           
 
                         <div class="col-md-8">
                             <table class="table" >
@@ -64,5 +51,21 @@ include("conexion.php");
                         </div>
                     </div>
             </div>
+
+<h1> Crear nuevo usuario </h1>
+ <div class="container mt-5">
+                    <div class="row">
+
+                        <div  class="col-md-3">
+                            <h1>Ingrese datos</h1>
+                                <form action="insertar.php" method="POST">
+
+                                    <input type="text" class="form-control mb-3" name="cod_estudiante" placeholder="cod estudiante">
+                                    <input type="text" class="form-control mb-3" name="nombres" placeholder="Nombre">
+                                    <input type="text" class="form-control mb-3" name="apellidos" placeholder="Apellido">
+
+                                    <input type="submit" class="btn btn-primary">
+                                </form>
+                        </div>
     </body>
 </html>
