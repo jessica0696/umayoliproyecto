@@ -25,14 +25,11 @@ include("conexion.php");
 #datos td, #datos th {
   border: 1px solid #ddd;
   padding: 8px;
-    
-body {
-        background-color: rgb(240, 240, 240);
-      }
+
 
 </style>
     </head>
-    <body>
+    <body style="background-color: rgb(240, 240, 240);">
            
         <h1>Usuarios: </h1>
                         <div class="col-md-8">
