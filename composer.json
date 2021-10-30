@@ -1,3 +1,11 @@
-$ echo '{}' > composer.json
-$ git add composer.json
-$ git commit -m "add composer.json for PHP app detection"
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/jessica0696/datosenlanube1"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "dev-bugfix"
+    }
+}
