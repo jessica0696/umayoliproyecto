@@ -37,7 +37,7 @@ include("conexion.php");
                             <table class="table" id="datos">
                                 <thead style >
                                     <tr>
-                                        <th>Codigo</th>
+                                        <th>Numero de usuario</th>
                                         <th>Nombre</th>
                                         <th>Apellido</th>
                                         <th></th>
@@ -73,7 +73,7 @@ include("conexion.php");
                       
                                 <form action="insertar.php" method="POST">
 
-                                    <input type="text" class="form-control mb-3" name="cod_estudiante" placeholder="cod estudiante">
+                                    <input type="text" class="form-control mb-3" name="cod_estudiante" placeholder="numero de usuario">
                                     <input type="text" class="form-control mb-3" name="nombres" placeholder="Nombre">
                                     <input type="text" class="form-control mb-3" name="apellidos" placeholder="Apellido">
 
