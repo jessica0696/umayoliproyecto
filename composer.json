@@ -1,8 +1,3 @@
 {
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://github.com/jessica0696/datosenlanube1/"
-        }
-    ]
+
 }
