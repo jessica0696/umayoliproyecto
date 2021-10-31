@@ -37,8 +37,10 @@ include("conexion.php");
                                 <thead style >
                                     <tr>
                                         <th>Numero de usuario</th>
+                                        <th>telefono</th>
                                         <th>Nombre</th>
                                         <th>Apellido</th>
+                                     
                                         <th></th>
                                         <th></th>
                                     </tr>
@@ -50,6 +52,7 @@ include("conexion.php");
                                         ?>
                                             <tr>
                                                 <th scope="row"><?php  echo $row['cod_estudiante']?></th>
+                                                <th><?php  echo $row['dni']?></th>
                                                 <th><?php  echo $row['nombres']?></th>
                                                 <th><?php  echo $row['apellidos']?></th>
                                                 <th><a href="actualizar.php?id=<?php echo $row['cod_estudiante'] ?>" class="btn btn-info">Editar</a></th>
@@ -73,6 +76,7 @@ include("conexion.php");
                                 <form action="insertar.php" method="POST">
 
                                     <input type="text" class="form-control mb-3" name="cod_estudiante" placeholder="numero de usuario">
+                                    <input type="text" class="form-control mb-3" name="dni" placeholder="telefono">
                                     <input type="text" class="form-control mb-3" name="nombres" placeholder="Nombre">
                                     <input type="text" class="form-control mb-3" name="apellidos" placeholder="Apellido">
 
