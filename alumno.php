@@ -80,7 +80,7 @@ include("conexion.php");
                                     <input type="text" class="form-control mb-3" name="nombres" placeholder="Nombre">
                                     <input type="text" class="form-control mb-3" name="apellidos" placeholder="Apellido">
 
-                                    <input type="submit" class="btn btn-primary">
+                                    <input type="submit" class="btn btn-primary" value="agregar">
                                 </form>
                         </div>
     </body>
