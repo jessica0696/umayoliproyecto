@@ -149,7 +149,7 @@ p {
   {
     padding-bottom:0;
   }
-  .site-footer .copyright-text,.site-footer .social-icons
+  .site-footer .copyright-text,.site-footer 
   {
     text-align:center;
   }
