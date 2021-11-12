@@ -118,7 +118,7 @@ p {
 }
 .footer-links a
 {
-  color:#737373
+  color:#737373;
 }
 .footer-links a:active,.footer-links a:focus,.footer-links a:hover
 {
@@ -145,7 +145,9 @@ p {
 }
 .copyright-text
 {
-  margin:0
+  margin:0;
+    color: #000000;
+    
 }
 @media (max-width:991px)
 {
@@ -246,7 +248,7 @@ p {
   
                         
                         
- <footer class="site-footer" style="background-color: #017078;">
+ <footer class="site-footer">
       <div class="container">
       <div class="container">
         <div class="row">
