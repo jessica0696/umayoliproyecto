@@ -88,7 +88,7 @@ p {
 }
 .site-footer hr.small
 {
-  margin:20px 0
+  margin:20px 0;
 }
 .site-footer h6
 {
@@ -141,7 +141,7 @@ p {
   margin-left:6px;
   margin-right:0;
   border-radius:100%;
-  background-color:#33353d
+  background-color:#33353d;
 }
 .copyright-text
 {
@@ -151,18 +151,19 @@ p {
 {
   .site-footer [class^=col-]
   {
-    margin-bottom:30px
+    margin-bottom:30px;
+
   }
 }
 @media (max-width:767px)
 {
   .site-footer
   {
-    padding-bottom:0
+    padding-bottom:0;
   }
   .site-footer .copyright-text,.site-footer .social-icons
   {
-    text-align:center
+    text-align:center;
   }
 }
 
@@ -174,7 +175,7 @@ p {
   {
     display:block;
     margin-right:0;
-    font-weight:600
+    font-weight:600;
   }
 }
     
