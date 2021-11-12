@@ -47,21 +47,7 @@ p {
 }
 
 
-.btn-bgstroke {
-  font-size: 20px;
-  display: inline-block;
-  border: 1px solid white;
-  padding: 10px 20px;
-  border-radius: 10px;
-  cursor: pointer;
-  font-weight: 300;
-  margin-top: 30px; 
-}
 
-.btn-bgstroke:hover {
-  background-color: red;
-  color: #4c5270;
-}
 #datos {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
