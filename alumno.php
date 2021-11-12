@@ -23,9 +23,12 @@ include("conexion.php");
   background-image: url('tabla.png');
   background-repeat: no-repeat;
   background-size: contain;
-  overflow-x: auto;
+  
  
 }
+            .col-md-8{
+                overflow-x:auto;
+            }
             
             .imagen{
   width: 100%;
