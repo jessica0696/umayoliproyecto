@@ -75,11 +75,10 @@ p {
 
 </style>
     </head>
-    <body style="background-color: rgb(240, 240, 240);">
+    <body style="background-color: #ffff;">
            <section class="header">
-    <h1>Text 1</h1>
-    <p>Text 2</p>
-    <a class="btn-bgstroke">Text 3</a>
+    <h1>Base de datos de usuarios</h1>
+    <p>agrega, edita o elimina aqui abajo</p>
 </section>
         <h1>Usuarios: </h1>
                         <div class="col-md-8">
