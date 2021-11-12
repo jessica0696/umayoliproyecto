@@ -52,6 +52,7 @@ p {
   text-align: center;
   background: #4c5270;
   color: white;
+    background-size: contain;
 }
 
 
