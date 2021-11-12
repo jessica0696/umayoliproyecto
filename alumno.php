@@ -20,7 +20,7 @@ include("conexion.php");
             .table{
   width: 100%;
   height: 400px;
-  background-image: url('table.png');
+  background-image: url('tabla.png');
   background-repeat: no-repeat;
   background-size: contain;
  
@@ -29,7 +29,7 @@ include("conexion.php");
             .imagen{
   width: 100%;
   height: 400px;
-  background-image: url('table.png');
+  background-image: url('usuario.png');
   background-repeat: no-repeat;
   background-size: contain;
  
