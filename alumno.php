@@ -17,13 +17,22 @@ include("conexion.php");
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
         <style>
             @import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900);
-            .header{
+            .table{
   width: 100%;
   height: 400px;
-  background-image: url('header.png');
+  background-image: url('table.png');
   background-repeat: no-repeat;
   background-size: contain;
-  border: 1px solid red;
+ 
+}
+            
+            .imagen{
+  width: 100%;
+  height: 400px;
+  background-image: url('table.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+ 
 }
 
 h1,
@@ -223,6 +232,7 @@ p {
             </div>
 
 <h1> Crear nuevo usuario </h1>
+<img class="imagen" src="usuario.png" >
  <div class="container mt-5">
                     <div class="row">
 
