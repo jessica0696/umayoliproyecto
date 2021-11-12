@@ -23,6 +23,7 @@ include("conexion.php");
   background-image: url('tabla.png');
   background-repeat: no-repeat;
   background-size: contain;
+  overflow-x: auto;
  
 }
             
