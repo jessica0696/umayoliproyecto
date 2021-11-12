@@ -245,7 +245,7 @@ p {
   
                         
                         
- <footer class="site-footer">
+ <footer class="site-footer" style="background-color: #017078;">
       <div class="container">
       <div class="container">
         <div class="row">
