@@ -20,7 +20,7 @@ include("conexion.php");
             .table {
   width: 100%;
   height: 400px;
-  background-image: url('usuario.png');
+  background-image: url('header.png');
   background-repeat: no-repeat;
   background-size: contain;
   border: 1px solid red;
@@ -50,9 +50,9 @@ p {
   width: 100%;
   padding:60px 0;
   text-align: center;
-  background: #4c5270;
+  background: #4c5270
   color: white;
-    background-size: contain;
+    
 }
 
 
