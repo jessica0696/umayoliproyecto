@@ -135,5 +135,15 @@ p {
                         <h1>proyecto en la nube Heroku:</h1>
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/aUW5GAFhu6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                          <iframe width="560" height="315" src="https://www.youtube.com/embed/2qkdAt9PuqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   </body>
+  
+                        
+                        
+                        <footer>
+  <ul>
+      <li><a href="mailto:info@stackfindover.com"><i class="fa fa-envelope-open"></i> info@stackfindover.com</a></li>
+      <li><a href="#"><i class="fa fa-twitter"></i>@stackfindover</a></li>
+      <li><a href="#"><i class="fa fa-linkedin"></i>Linkedin</a></li>
+  </ul>
+</footer>
+                        </body>
 </html>
