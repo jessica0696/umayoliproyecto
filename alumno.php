@@ -183,7 +183,7 @@ p {
            <section class="header">
     <h1>Base de datos de usuarios</h1>
     <p>agrega, edita o elimina aqui abajo</p>
-               <img src="usuario.png" >
+               
         </section>
         <h1>Usuarios: </h1>
                         <div class="col-md-8">
