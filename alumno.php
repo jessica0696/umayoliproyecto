@@ -50,7 +50,7 @@ p {
   width: 100%;
   padding:60px 0;
   text-align: center;
-  background: #4c5270;
+  background: #4c5270
   color: white;
 }
 
