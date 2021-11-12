@@ -175,8 +175,9 @@ p {
            <section class="header">
     <h1>Base de datos de usuarios</h1>
     <p>agrega, edita o elimina aqui abajo</p>
-<a title="Los Tejos" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.osi.es%2Fes%2Factualidad%2Fblog%2F2014%2F09%2F19%2Fte-contamos-por-que-es-importante-tener-diferentes-usuarios-en-tu-ordenador&psig=AOvVaw1GRwv-GUXS_XP1EzaA55ME&ust=1636825606225000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCs5dywk_QCFQAAAAAdAAAAABAD
-"><img src="imagen-decorativa-infografia-cuentas-usuario.png" alt="usuarios" /></a>
+
+               <a title="Los Tejos" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.osi.es%2Fes%2Factualidad%2Fblog%2F2014%2F09%2F19%2Fte-contamos-por-que-es-importante-tener-diferentes-usuarios-en-tu-ordenador&psig=AOvVaw1GRwv-GUXS_XP1EzaA55ME&ust=1636825606225000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCs5dywk_QCFQAAAAAdAAAAABAD"><img src="imagen-decorativa-infografia-cuentas-usuario.png" alt="Los Tejos" /></a>
+
         </section>
         <h1>Usuarios: </h1>
                         <div class="col-md-8">
