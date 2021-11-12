@@ -72,6 +72,33 @@ p {
   border: 1px solid #ddd;
   padding: 8px;
 
+    
+    ul { list-style: none; }
+a { text-decoration: unset; }
+a:hover { text-decoration: underline; }
+ul > li > a { color:#fff; }
+ul > li { line-height: 1.5em; }
+.footer {
+    display: block;
+    width: 100%;
+    position: relative;
+    background: #150c21;
+    padding: 150px 25px 50px 25px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.footer-start {
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1280px;
+    width: 90%;
+    margin: auto;
+    padding: 80px 100px;
+    background: #705df2;
+    border-radius: 15px;
+}
 
 </style>
     </head>
