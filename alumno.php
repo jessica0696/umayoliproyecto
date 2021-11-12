@@ -30,7 +30,11 @@ include("conexion.php");
 </style>
     </head>
     <body style="background-color: rgb(240, 240, 240);">
-           
+           <section class="header">
+    <h1>Text 1</h1>
+    <p>Text 2</p>
+    <a class="btn-bgstroke">Text 3</a>
+</section>
         <h1>Usuarios: </h1>
                         <div class="col-md-8">
                             <table class="table" id="datos" >
