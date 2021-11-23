@@ -21,7 +21,7 @@ include("conexion.php");
   width: 100%;
   height: 400px;
   background-image: url('tabla.png');
-  background-repeat: no-repeat;
+  background-repeat: auto;
   background-size: contain;
   
  
