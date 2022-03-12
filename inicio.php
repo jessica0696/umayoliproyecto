@@ -44,7 +44,7 @@
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Bienvenidos a Umayoli!</div>
-                <div class="masthead-heading text-uppercase">Conoce nuestra asociacion en este sitio</div>
+                <div class="masthead-heading text-uppercase">Conoce nuestra asociacion en este sitio web</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Ser voluntario</a>
             </div>
         </header>
