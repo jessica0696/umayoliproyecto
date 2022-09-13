@@ -156,7 +156,7 @@
                             <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Explore</div>
+                            <div class="portfolio-caption-heading">Donaciones</div>
                             <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
                         </div>
                     </div>
@@ -171,7 +171,7 @@
                             <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Finish</div>
+                            <div class="portfolio-caption-heading">Cursos</div>
                             <div class="portfolio-caption-subheading text-muted">Identity</div>
                         </div>
                     </div>
@@ -186,7 +186,7 @@
                             <img class="img-fluid" src="assets/img/portfolio/4.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Lines</div>
+                            <div class="portfolio-caption-heading">Colaboradores</div>
                             <div class="portfolio-caption-subheading text-muted">Branding</div>
                         </div>
                     </div>
@@ -201,7 +201,7 @@
                             <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Southwest</div>
+                            <div class="portfolio-caption-heading">Eventos</div>
                             <div class="portfolio-caption-subheading text-muted">Website Design</div>
                         </div>
                     </div>
